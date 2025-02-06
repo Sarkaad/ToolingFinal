@@ -1,0 +1,15 @@
+{
+	"FileDescription":
+	{
+		"ProjectName": "TestGame"
+	},
+	"EngineAssociation": "5.4",
+	"Plugin": [
+		{
+			"Name": "PluginA"
+		},
+		{
+			"Name": "PluginB"
+		}
+	]
+}
